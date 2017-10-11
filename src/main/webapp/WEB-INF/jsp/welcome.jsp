@@ -7,7 +7,7 @@
     <h2><fmt:message key="welcome Poc"/></h2>
     <div class="row">
         <div class="col-md-12">
-            <spring:url value="/resources/images/pet-Clinic.png" htmlEscape="true" var="petsImage"/>
+            <spring:url value="/resources/images/pet-clinic.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
