@@ -441,8 +441,8 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql://10.128.0.14:3306/petclinic?useUnicode=true</jdbc.url>
-         <!--       <jdbc.url>jdbc:mysql://localhost:3306/petclinic?useUnicode=true</jdbc.url> -->
+                <jdbc.url>jdbc:mysql://35.224.100.40:3306/petclinic?useUnicode=true</jdbc.url>
+         <!--    <jdbc.url>jdbc:mysql://10.128.0.14:3306/petclinic?useUnicode=true</jdbc.url>  -->
                 <jdbc.username>root</jdbc.username>
                 <jdbc.password>oibPB4d6pVDk</jdbc.password>
             </properties>
